@@ -1,0 +1,34 @@
+
+body {
+    background-color:wheat;
+}
+
+h2 {
+    text-align:center;
+}
+
+#resize {
+    display:inline-block;
+    float:left;
+}
+
+#button-container {
+    width:640px;
+    height:50px;
+    margin:auto;
+}
+
+.grid-cell {
+    display:inline-block;
+    float:left;
+}
+
+#grid-container {
+    background-color:green;
+    width:640px;
+    height:640px;
+    margin:auto;
+    border:10px solid brown;
+    border-radius:5px;
+}
+
